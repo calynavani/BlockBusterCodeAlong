@@ -1,0 +1,14 @@
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\bin\Debug\netcoreapp3.1\BlockbusterCodeAlong.exe
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\bin\Debug\netcoreapp3.1\BlockbusterCodeAlong.deps.json
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\bin\Debug\netcoreapp3.1\BlockbusterCodeAlong.runtimeconfig.json
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\bin\Debug\netcoreapp3.1\BlockbusterCodeAlong.runtimeconfig.dev.json
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\bin\Debug\netcoreapp3.1\BlockbusterCodeAlong.dll
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\bin\Debug\netcoreapp3.1\BlockbusterCodeAlong.pdb
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.csproj.AssemblyReference.cache
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.AssemblyInfoInputs.cache
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.AssemblyInfo.cs
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.csproj.CoreCompileInputs.cache
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.dll
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.pdb
+C:\Users\CGreene1\source\repos\BlockbusterCodeAlong\BlockbusterCodeAlong\obj\Debug\netcoreapp3.1\BlockbusterCodeAlong.genruntimeconfig.cache
